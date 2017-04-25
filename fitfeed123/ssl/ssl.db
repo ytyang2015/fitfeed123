@@ -1,0 +1,45 @@
+--- 
+files: 
+  certificate: 
+    fitfeed123_web_engr_illinois_edu_ca4e7_c3617_1520049624_0b2711423270ffcbc288d3d0da08cc14: 
+      created: '1488513624'
+      domains: 
+        - fitfeed123.web.engr.illinois.edu
+        - mail.fitfeed123.web.engr.illinois.edu
+        - www.fitfeed123.web.engr.illinois.edu
+      friendly_name: fitfeed123.web.engr.illinois.edu, mail.fitfeed123.web.engr.illinois.edu, and www.fitfeed123.web.engr.illinois.edu
+      id: fitfeed123_web_engr_illinois_edu_ca4e7_c3617_1520049624_0b2711423270ffcbc288d3d0da08cc14
+      is_self_signed: 1
+      issuer.commonName: fitfeed123.web.engr.illinois.edu
+      issuer.organizationName: ~
+      modulus: ca4e74ce3f0ede77755ecabab702945376089682ae302d0eead2fcb6114787750d1043faf74f1b166d96c9f062acd1a10a1214eeb9bcbd5293c312a72a78021fb9d131e1b064d54146f66d3413dcc487178aae75fa3d1f9e93442e29d4abcd46c3597da498ea544ef6df55572234dab0868d43fe416dafbd82ebb2eecd90f313a26f775ca1908c12e56dea80ba9ad757c6b2c4009c230273c17488e84e7aad06febd1ca9c7ca5dcb47641c55d98bb43266f23e524a9bec2997af196bad827298cabb04bb257749951fceb5e3a4dc344fc1f83c0e8e01f05a91827dcea7f203bfdfac30f813c4049f212efbbf9efb862d070b6362b53722c82a61829da09c3617
+      modulus_length: 2048
+      not_after: '1520049624'
+      not_before: '1488513624'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: fitfeed123.web.engr.illinois.edu
+      validation_type: ~
+  key: 
+    ca4e7_c3617_e46bfa949e46c45587c65a3d56e5f573: 
+      created: '1488513624'
+      friendly_name: 2,048 bits, created 3/3/17, 4:00 AM UTC
+      id: ca4e7_c3617_e46bfa949e46c45587c65a3d56e5f573
+      modulus: ca4e74ce3f0ede77755ecabab702945376089682ae302d0eead2fcb6114787750d1043faf74f1b166d96c9f062acd1a10a1214eeb9bcbd5293c312a72a78021fb9d131e1b064d54146f66d3413dcc487178aae75fa3d1f9e93442e29d4abcd46c3597da498ea544ef6df55572234dab0868d43fe416dafbd82ebb2eecd90f313a26f775ca1908c12e56dea80ba9ad757c6b2c4009c230273c17488e84e7aad06febd1ca9c7ca5dcb47641c55d98bb43266f23e524a9bec2997af196bad827298cabb04bb257749951fceb5e3a4dc344fc1f83c0e8e01f05a91827dcea7f203bfdfac30f813c4049f212efbbf9efb862d070b6362b53722c82a61829da09c3617
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      ca4e74ce3f0ede77755ecabab702945376089682ae302d0eead2fcb6114787750d1043faf74f1b166d96c9f062acd1a10a1214eeb9bcbd5293c312a72a78021fb9d131e1b064d54146f66d3413dcc487178aae75fa3d1f9e93442e29d4abcd46c3597da498ea544ef6df55572234dab0868d43fe416dafbd82ebb2eecd90f313a26f775ca1908c12e56dea80ba9ad757c6b2c4009c230273c17488e84e7aad06febd1ca9c7ca5dcb47641c55d98bb43266f23e524a9bec2997af196bad827298cabb04bb257749951fceb5e3a4dc344fc1f83c0e8e01f05a91827dcea7f203bfdfac30f813c4049f212efbbf9efb862d070b6362b53722c82a61829da09c3617: 
+        fitfeed123_web_engr_illinois_edu_ca4e7_c3617_1520049624_0b2711423270ffcbc288d3d0da08cc14: ~
+    subject.commonName: 
+      fitfeed123.web.engr.illinois.edu: 
+        fitfeed123_web_engr_illinois_edu_ca4e7_c3617_1520049624_0b2711423270ffcbc288d3d0da08cc14: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      fitfeed123.web.engr.illinois.edu, mail.fitfeed123.web.engr.illinois.edu, and www.fitfeed123.web.engr.illinois.edu: fitfeed123_web_engr_illinois_edu_ca4e7_c3617_1520049624_0b2711423270ffcbc288d3d0da08cc14
+  key: 
+    friendly_name: 
+      2,048 bits, created 3/3/17, 4:00 AM UTC: ca4e7_c3617_e46bfa949e46c45587c65a3d56e5f573
+    modulus: 
+      ca4e74ce3f0ede77755ecabab702945376089682ae302d0eead2fcb6114787750d1043faf74f1b166d96c9f062acd1a10a1214eeb9bcbd5293c312a72a78021fb9d131e1b064d54146f66d3413dcc487178aae75fa3d1f9e93442e29d4abcd46c3597da498ea544ef6df55572234dab0868d43fe416dafbd82ebb2eecd90f313a26f775ca1908c12e56dea80ba9ad757c6b2c4009c230273c17488e84e7aad06febd1ca9c7ca5dcb47641c55d98bb43266f23e524a9bec2997af196bad827298cabb04bb257749951fceb5e3a4dc344fc1f83c0e8e01f05a91827dcea7f203bfdfac30f813c4049f212efbbf9efb862d070b6362b53722c82a61829da09c3617: ca4e7_c3617_e46bfa949e46c45587c65a3d56e5f573
